@@ -33,11 +33,6 @@ python main.py
 
 ```
 
-## 📝 Future Goals
-
-* Expand the tool to simulate larger, more complex molecules.
-* Integrate with standard biology simulation tools (like OpenMM) to use quantum-accurate data in protein design.
-
 
 ## 📝 License
 
